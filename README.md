@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abrham Desalegn</h1>
-<h3 align="center">A passionate MERN Stack web developer from Ethipia</h3>
+<h3 align="center">A passionate Full-Stack web developer from Ethipia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrham-desalegn&label=Profile%20views&color=0e75b6&style=flat" alt="abrham-desalegn" /> </p>
 
