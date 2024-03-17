@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrham-desalegn&label=Profile%20views&color=0e75b6&style=flat" alt="abrham-desalegn" /> </p>
 
-- 🔭 I’m currently working on **Netflix and Amazon Clone**
+- 🔭 I’m currently working on **Different Project**
 
-- 🌱 I’m currently learning **React, MongoDB, Node.js, Express**
+- 🌱 I’m currently learning **Javascript, React, MongoDB, Node.js, Express**
 
 - 💬 Ask me about **Bootstrap, React, Node.js, MongoDB**
 
