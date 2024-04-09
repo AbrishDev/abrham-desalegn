@@ -19,7 +19,7 @@ Nice to meet you, I'm Abrham Desalegn.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abrham-desalegn-607a92255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abrham-desalegn-607a92255/" height="30" width="40" /></a>
 </p>
 ## My Weapons 🌟
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrishDev&theme=react)](https://github.com/AbrishDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrishDev&theme=dracula)](https://github.com/AbrishDev/github-readme-stats)
 
 <br>
 
