@@ -1,10 +1,8 @@
 
-<h1 align="center">Hey 👋, folks!</h1>
-<h3 align="center">Nice to meet you, I'm Abrham Desalegn.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrham-desalegn&label=Profile%20views&color=0e75b6&style=flat" alt="abrham-desalegn" /> </p>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Nice to meet you, I'm Abrham Desalegn.
 
-  ## Who Am I? 🤠
+## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web & App Development 
