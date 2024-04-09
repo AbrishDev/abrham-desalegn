@@ -14,8 +14,7 @@ Nice to meet you, I'm Abrham Desalegn.
 <br>
 ## My Weapons 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrishDev&layout=compact)]
-(https://github.com/AbrishDev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrishDev&layout=compact)
 
 <br>
 
