@@ -15,6 +15,13 @@ Nice to meet you, I'm Abrham Desalegn.
 
 ## Contact Me
 
+<p align="left">
+<a href="https://dev.to/AbrishDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danoxi4" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alemayehudani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dani alemayehu" height="30" width="40" /></a>
+<a href="https://instagram.com/abrsh817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danoxi4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/AbrishDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danialemayehu32" height="30" width="40" /></a>
+</p>
 <br>
 
 ## My Weapons 🌟
