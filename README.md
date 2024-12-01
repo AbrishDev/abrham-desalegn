@@ -8,9 +8,6 @@ Nice to meet you, I'm Abrham Desalegn.
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me : **abrhamdesalegn760@gmail.com**
-- 💌 Fun Facts : 
-    - Loves food but can't' cook 🐼 
-    - Overthinks thinking to not to overthink 🙂
 <br>
 
 ## Contact Me
